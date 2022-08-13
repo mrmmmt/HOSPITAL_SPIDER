@@ -1,2 +1,4 @@
-
-hospital_html/
+/__pycache__
+*.pyc
+/hospital_html
+/yixue_com_html
